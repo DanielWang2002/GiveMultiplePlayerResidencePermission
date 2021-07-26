@@ -1,0 +1,9 @@
+name: GiveMultiplePlayerResidencePermission
+version: ${project.version}
+main: mc.daninelwang.givemultipleplayerresidencepermission.GiveMultiplePlayerResidencePermission
+api-version: 1.16
+authors: [ DanielWang ]
+description: give multiple player residence permission
+commands:
+  rp:
+    description: res pset
